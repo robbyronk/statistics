@@ -1,0 +1,3 @@
+I created this group of functions while studying Statistics. It was very helpful to put the formulas into code and see how they interact with each other.
+
+The parameters are datasets from problems that I was working with.
